@@ -52,4 +52,4 @@ This project really helped me to solidify my workflow for setting up layouts cor
 ## Author
 
 - Website - [EricWink GitHub](https://github.com/ericwink)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ericwink)
+- Frontend Mentor - [@ericwink](https://www.frontendmentor.io/profile/ericwink)
