@@ -29,7 +29,7 @@ Users should be able to:
 
 ![monthly](./src/images/monthly.png)
 ![annual](./src/images/annual.png)
-![mobile](./src/images/monthly.png)
+![mobile](./src/images/mobile.png)
 
 ### Links
 
